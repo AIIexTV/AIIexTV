@@ -1,5 +1,5 @@
 # 💫 About Me:
-꧁跟着钱走，不跟着朋友走꧂<br><br><br>↬ https://ayo.so/aiiextv<br>▬▬▬▬SKILLS▬▬▬▬<br>Knowledge:<br>HTML, CSS<br>Learning:<br>JavaScript, C++, Python, C#
+꧁跟着钱走，不跟着朋友走꧂<br><br><br>↬ https://ayo.so/aiiextv<br>▬▬▬▬SKILLS▬▬▬▬<br>Knowledge:<br>HTML, CSS, PHP, JavaScript<br>Learning:<br>C#, Python
 
 
 ## 🌐 Socials:
