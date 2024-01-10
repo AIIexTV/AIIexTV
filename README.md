@@ -1,5 +1,5 @@
 # 💫 About Me:
-꧁跟着钱走，不跟着朋友走꧂<br><br><br>↬ https://ayo.so/aiiextv<br>▬▬▬▬SKILLS▬▬▬▬<br>Knowledge:<br>HTML, CSS, PHP, JavaScript<br>Learning:<br>C#, Python
+꧁跟着钱走，不跟着朋友走꧂<br><br><br>↬ https://ayo.so/aiiextv<br>Web & Software Developer<br>▬▬▬▬SKILLS▬▬▬▬<br>Knowledge:<br>C#, HTML, CSS, PHP, JavaScript
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AIIexTV&icon=2&color=2)](https://visitcount.itsvg.in)
