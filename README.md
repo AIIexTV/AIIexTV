@@ -1,5 +1,13 @@
 # 💫 About Me:
-꧁跟着钱走，不跟着朋友走꧂<br><br><br>↬ https://ayo.so/aiiextv<br>Web & Software Developer<br>▬▬▬▬SKILLS▬▬▬▬<br>Knowledge:<br>C#, HTML, CSS, PHP, JavaScript
+Working on something...
+<br>
+Web & Software Developer
+<br>
+▬▬▬▬SKILLS▬▬▬▬
+<br>
+Knowledge:
+<br>
+C#, HTML, CSS, PHP, JavaScript
 
 
 ## 🌐 Socials:
