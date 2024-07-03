@@ -7,7 +7,7 @@ Web & Software Developer
 <br>
 Knowledge:
 <br>
-C#, HTML, CSS, PHP, JavaScript
+Swift, C#, HTML, CSS, PHP, JavaScript
 
 
 ## 🌐 Socials:
