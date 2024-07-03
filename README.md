@@ -5,9 +5,7 @@ Web & Software Developer
 <br>
 ▬▬▬▬SKILLS▬▬▬▬
 <br>
-Knowledge:
-<br>
-Swift, C#, HTML, CSS, PHP, JavaScript
+Swift, HTML, CSS, JS, PHP, C#, Python
 
 
 ## 🌐 Socials:
